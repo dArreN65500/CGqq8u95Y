@@ -14,7 +14,6 @@
 [github open prs link]: https://github.com/sohutv/cachecloud/pulls?q=is%3Apr+is%3Aopen
 [github stars badge]: https://flat.badgen.net/github/stars/sohutv/cachecloud?icon=github
 [github stars link]: https://github.com/sohutv/cachecloud/stargazers
-[latest commit to main badge]: https://flat.badgen.net/github/last-commit/sohutv/cachecloud/main?icon=github&color=yellow&label=last%20dev%20commit&cache=900
 [latest commit to main link]: https://github.com/sohutv/cachecloud/commits/main
 [latest release badge]: https://flat.badgen.net/github/release/sohutv/cachecloud/development?icon=github
 [latest release link]: https://github.com/sohutv/cachecloud/releases
