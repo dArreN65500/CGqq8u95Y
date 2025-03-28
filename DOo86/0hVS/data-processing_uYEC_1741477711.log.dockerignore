@@ -5,7 +5,6 @@ README.md
 .next
 .git
 
-.yalc/
 yalc.lock
 testApi/
 *.local.*
