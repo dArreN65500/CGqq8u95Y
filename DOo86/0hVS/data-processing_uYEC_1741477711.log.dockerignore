@@ -1,9 +1,0 @@
-Dockerfile
-.dockerignore
-README.md
-.next
-.git
-
-yalc.lock
-testApi/
-*.local.*
