@@ -26,7 +26,6 @@ RUN pip3 install --upgrade pip==21.0.1 && \
 
 RUN groupadd -r m3d && \
     useradd -r -g m3d m3d && \
-    mkdir -p /home/m3d && \
     chown m3d:m3d /home/m3d
 USER m3d
 
