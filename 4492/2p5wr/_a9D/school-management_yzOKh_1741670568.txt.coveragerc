@@ -1,5 +1,4 @@
 [run]
-include = notices/*
 omit = *migrations*, *tests*
 disable_warnings = already-imported
 plugins =
