@@ -8,7 +8,6 @@ DELAY 1000
 CTRL l 
 DELAY 100 
 STRING https://github.com/ClaraCrazy/Flipper-Xtreme
-DELAY 100 
 ENTER
 DELAY 500
 STRING f
