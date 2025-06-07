@@ -70,7 +70,6 @@ The architecture leverages a cloud-native approach with the following components
 2. **SNS**: Manages notifications across the application.
 3. **RDS**: Relational data storage for transactions and other structured data.
 4. **MongoDB**: Non-relational database for dynamic content such as products.
-5. **CloudFront**: Content delivery network for serving assets quickly.
 
 ### Structural Diagram
 ![Screenshot 2024-11-25 123111](https://github.com/user-attachments/assets/0a734ebd-2d6c-40f6-b4d7-3bb03298a738)
